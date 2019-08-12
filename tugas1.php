@@ -134,7 +134,7 @@ $hasil = $jumlah/3;
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/portfolio/cake.png" alt="">
+            <img class="img-fluid" src="risma.jpg" alt="">
           </div>
           <?php
           echo "Nama : $namaDua <br>";

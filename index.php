@@ -85,7 +85,12 @@
       
   </section>
   <center>
-      <h1 class="page-section-heading text-center text-uppercase text-secondary mb-0">ini adalah tugas website dari kelompok kami</h1>
+      <h3 class="page-section-heading text-center text-uppercase text-secondary mb-0">ini adalah tugas membuat website dari kelompok 2<br>
+        yang beranggotakan : <br><br>
+        1.M fatur safarhan <br>
+        2.Risma astuti <br>
+        3.Adelia Putri 
+      </h3>
   </center 
 
   <!-- Footer -->

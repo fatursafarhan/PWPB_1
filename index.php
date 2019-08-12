@@ -89,9 +89,12 @@
         yang beranggotakan : <br><br>
         1.M fatur safarhan <br>
         2.Risma astuti <br>
-        3.Adelia Putri 
+        3.Adelia Putri <br><br>
       </h3>
-  </center 
+      <h4>Pada tugas kali ini kita belajar penggunaan variabel pada PHP</h4><br>
+      <img src="format-code.gif" alt=""><br>
+      <a href="https://phpstorm.tips/tips/34-reformatting-source-code/">https://phpstorm.tips</a>
+      </center> 
 
   <!-- Footer -->
   <footer class="footer text-center">
